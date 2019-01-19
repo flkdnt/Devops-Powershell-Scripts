@@ -1,8 +1,3 @@
-# Server Maintenance Repository
-
-The Scripts in this Repository are useful for Server Maintence Activities.
-
-
 # Powershell Snippets
 
 Some snippets to get you started:
@@ -65,7 +60,7 @@ And then point the loop of your PowerShell script to the File in order to run ac
 	} 
 	#DONT FORGET YOUR BRACKETS!
 
-## Enable Posershell Remoting
+## Enable Powershell Remoting
 
 	Set-ExecutionPolicy RemoteSigned -force
 	Enable-PSRemoting -force
